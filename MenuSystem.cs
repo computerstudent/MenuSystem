@@ -16,5 +16,4 @@ public class MenuSystem
 	{
 		products.Add(product);
 	}	
-	
 }
